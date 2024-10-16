@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    justify-content:space-between;
+}
+.left{
+      display: flex;
+      justify-content: space-evenly;
+}
+.right{
+      display: flex;
+          justify-content: space-evenly;
+          display: block;
+          padding:;
+}
+li{
+    display:inline
+}
+a{
+    float:left
+     display: block;
+    padding: 8px;
+}
+li a:hover{
+    background-color:  #f3f3f3;
+  top: 0;
+  width: 100%;
+}
+ul {
+  position: sticky;
+  top: 0;
+}
+.background-img{
+    display: flex;
+    height:150px ;
+    width:100%;
+}
+.para{
+   align-items: center;
+}
